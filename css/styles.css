@@ -4,18 +4,26 @@ body {
 
 h1 {margin-top: 0;}
 
-div.top {
+.top {
     background-color: #f4eeff;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    padding: 20px;
 }
 
-div.middle {
+.middle {
     background-color: red;    
     height: 200px;
     width: 200px;
+    margin: 20px;
+    padding: 20px;
 }
 
-div.bottom {
+.bottom {
     background-color: blue;
     height: 200px;
     width: 200px;
+    margin: 20px;
+    padding: 20px;
 }
